@@ -1,0 +1,2 @@
+C:\C++\Computer Architecture\Pipeline Project\Project 3 Pipeline\Debug\Project 3 Pipeline.exe
+C:\C++\Computer Architecture\Pipeline Project\Project 3 Pipeline\Debug\Project 3 Pipeline.pdb
